@@ -2,10 +2,10 @@
 This is the source code for paper "Unsupervised Domain Adaptation for Cross-Patient Seizure Classification".
 
 ## main files
-tasa_sds_gda merges the proposed tasa, sds, and gda methods;
-mldg and maml are two meta-learning baselines;
-mlp is the deep-neural-network baseline without using any tricks.
+- tasa_sds_gda merges the proposed tasa, sds, and gda methods;
+- mldg and maml are two meta-learning baselines;
+- mlp is a deep neural network baseline without using any tricks.
 ## data
-data can be ontained in directory "data"
+Dataset can be obtained in directory "./data/fts_labels/", containing S1-S27.
 ## utils
-Some necessary functions are in this directory.
+Some necessary functions are in utils directory.
