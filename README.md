@@ -1,6 +1,9 @@
 # TASA
 This repository contains the source code for our paper [**Unsupervised Domain Adaptation for Cross-Patient Seizure Classification**](https://iopscience.iop.org/article/10.1088/1741-2552/ad0859/meta) (JNE, 2023).
 
+**📰 News:** The original EEG trials of our seizure dataset CHSZ are now publicly available on [Zenodo](https://zenodo.org/records/19333249).
+
+
 ## main files
 - tasa_sds_gda merges the proposed tasa, sds, and gda methods;
 - mldg and maml are two meta-learning baselines;
